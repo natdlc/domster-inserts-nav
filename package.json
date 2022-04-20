@@ -1,6 +1,6 @@
 {
   "name": "domster-inserts-nav",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "inserts a nav, my first package",
   "main": "nav.js",
   "scripts": {
