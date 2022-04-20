@@ -1,0 +1,12 @@
+{
+  "name": "domster-inserts-nav",
+  "version": "1.0.0",
+  "description": "inserts a nav, my first package",
+  "main": "nav.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "nat corpuz",
+  "license": "ISC"
+}
