@@ -1,4 +1,4 @@
-module.exports.insertNav = (parent) => {
+const insertNav = (parent) => {
 
     const nav = document.createElement('nav');
     const button = document.createElement('button');
@@ -38,3 +38,5 @@ module.exports.insertNav = (parent) => {
 
     parent.appendChild(nav);
 }
+
+module.exports.insertNav = insertNav;
